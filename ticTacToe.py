@@ -1,3 +1,12 @@
+"""
+Author: Warren Closson
+Date Created: 1/31/2024
+Purpose: Create text based Tic Tac Toe in Python because I am bored in class
+Method: Lists, while loop, for loop, and way too many if statements
+"""
+
+
+
 #initialize empty board, variables
 board = [[" ", " ", " "],
          [" ", " ", " "],
